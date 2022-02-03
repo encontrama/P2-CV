@@ -3,3 +3,8 @@ h1 {
   font-style: italic;
   text-decoration: line-through;
 }
+
+img {
+  width: 200px;
+  height: 200px;
+}
